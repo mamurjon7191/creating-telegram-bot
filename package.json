@@ -1,0 +1,25 @@
+{
+  "name": "creating-telegram-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mamurjon7191/creating-telegram-bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mamurjon7191/creating-telegram-bot/issues"
+  },
+  "homepage": "https://github.com/mamurjon7191/creating-telegram-bot#readme",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.58.0",
+    "nodemon": "^2.0.16",
+    "telegraf": "3.32"
+  }
+}
